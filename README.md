@@ -7,9 +7,16 @@ As an aspiring blockchain student, I have created an Ethereum-based token smart 
 The ERC-20 token smart contract,is designed to serve as a foundation for building decentralized applications (dApps) that require a secure and flexible token system.
 
 ## Key Features
-**Token Minting**: The contract includes a function that allows the contract owner to mint new tokens, enabling the creation and distribution of the digital asset.
+**Token Minting**: The contract includes a function that allows the contract owner to mint new tokens, enabling the creation and distribution of the digital asset. 
+
+
 **Token Transfer**: Users can securely transfer tokens from one Ethereum address to another, facilitating the exchange of value within the system.
+
+
 **Token Balance Checking**: The contract provides a function to check the token balance of any Ethereum address, allowing users to track their holdings.
+
+
+
 **Total Supply Tracking**: The contract maintains the total supply of tokens, giving users and dApp developers insight into the overall circulation of the digital asset.
 
 ## Technical Approach
